@@ -2,6 +2,13 @@
     "name": "alfonsas/bloget",
     "description": "Blog content grabber",
     "require": {
-
+        "fabpot/goutte": "~1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
     }
 }
