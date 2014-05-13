@@ -1,2 +1,4 @@
-bloget
+Bloget
 ======
+
+Blog content grabber
